@@ -21,7 +21,7 @@ Se trata de una página web profesional de estilo minimalista con tonos tierra, 
 
 ## 🌐 Ver online
 Puedes ver mi CV en vivo aquí:  
-👉 [https://gabrielafdasilva.github.io/cv-tecnico/](https://gabrielafdasilva.github.io/cv-tecnico/) 
+👉 [https://gabrielafdasilva.github.io/cv-tecnico/](https://gabrielafdasilva.github.io/cvtecnico/) 
 
 ## 👩‍💻 Autora
 **Gabriela Da Silva** Estudiante de Licenciatura en Informática - Universidad de Hurlingham.
